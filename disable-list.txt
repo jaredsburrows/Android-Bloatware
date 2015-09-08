@@ -1,53 +1,32 @@
-
-com.andrew.apollo Music Player
 com.android.apps.tag
-com.android.backupconfirm Restores Google settings
-com.android.browser Stock Browser
-com.android.calendar Stock Calendar
-com.android.camera2 Stock Camera
-com.android.captiveportallogin
 com.android.cellbroadcastreceiver Alert Broadcasts
-com.android.development Development App
 com.android.dreams.basic Screensaver
 com.android.dreams.phototable
-com.android.email Stock Email
-com.android.exchange
-com.android.facelock
 com.android.galaxy4
 com.android.gallery3d
-com.android.htmlviewer
 com.android.inputdevices
 com.android.inputmethod.latin
 com.android.magicsmoke Live Wallpaper
-com.android.managedprovisioning Google Workplace
-com.android.mms Stock Messaging
 com.android.moto.appdirectedsms
-com.android.musicfx Audio Equalizer
 com.android.musicvis Live Wallpapers
 com.android.noisefield Live Wallpaper
 com.android.pacprocessor
 com.android.phasebeam Wallpaper
 com.android.printspooler
-com.android.providers.downloads.ui Downloads
 com.android.providers.partnerbookmarks
 com.android.providers.userdictionary Dictionary for Keyboard
 com.android.proxyhandler
-com.android.quicksearchbox Search Box
 com.android.sdm.plugins.connmo
 com.android.sdm.plugins.dcmo
 com.android.sdm.plugins.diagmon
 com.android.sdm.plugins.sprintdm
-com.android.smspush Tethering connectivity
-com.android.soundrecorder Sound Recroder
 com.android.sprint.hiddenmenuapp
 com.android.sprint.lifetimedata
-com.android.videoeditor Movie Studio
 com.android.voicedialer Voice Search
 com.android.vpndialogs VPN System
 com.android.wallpaper.holospiral Live Wallpaper
 com.android.wallpaper.livepicker Wallpaper Picker
 com.android.wallpapercropper Wallpaper Cropper
-com.bel.android.dspmanager Audio Equalizer
 com.cyanogenmod.account Account Manager
 com.cyanogenmod.CMWallpapers Cyanogen Wallpapers
 com.cyanogenmod.eleven
@@ -55,37 +34,20 @@ com.cyanogenmod.filemanager File Manager
 com.cyanogenmod.lockclock Lock Screen Widget
 com.cyanogenmod.trebuchet Launcher
 com.cyanogenmod.wallpapers Wallpapers
-com.facebook.katana Facebook
-com.google.android.androidforwork
 com.google.android.apps.books Books
 com.google.android.apps.cloudprint Cloud Print
-com.google.android.apps.currents Currents
-com.google.android.apps.docs Drive
-com.google.android.apps.docs.editors.docs Docs
-com.google.android.apps.docs.editors.sheets Sheets
-com.google.android.apps.docs.editors.slides Slides
 com.google.android.apps.enterprise.dmagent
 com.google.android.apps.fitness Fit
-com.google.android.apps.gcs
 com.google.android.apps.inputmethod.hindi Hindi Keyboard
-com.google.android.apps.photos
-com.google.android.apps.plus Google+
 com.google.android.apps.walletnfcrel Google Wallet
-com.google.android.email Stock Email
-com.google.android.gm.exchange
-com.google.android.googlequicksearchbox Search Box
 com.google.android.inputmethod.japanese Japanese Keyboard
 com.google.android.inputmethod.korean Korean Keyboard
 com.google.android.inputmethod.pinyin
 com.google.android.inputmethod.piyin
 com.google.android.marvin.talkback Accessibility
 com.google.android.play.games Play Games
-com.google.android.street Street View
 com.google.android.tag
-com.google.android.talk Hangouts
 com.google.android.videos Play Movies & TV
-com.google.android.webview Webview
-com.google.android.youtube Youtube
 com.google.earth Earth
 com.motorola.android.buacontactadapter
 com.motorola.entitlement
